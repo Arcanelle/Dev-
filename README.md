@@ -1,19 +1,19 @@
-#Dev'
+# Dev'
 
 Développement de petits trucs:
 
-    - ##Converter
+    - ## Converter
 
         Convertisseur km/h - mph
         Convertisseur mph - km/h
 
         Ce programme est un convertisseur de mesure capable de convertir des km/h en mph et inversement.
 
-    - ##Geo-points
+    - ## Geo-points
 
         Programme définissant les coordonnées de points géographiques afin de déterminer leur alignement.     
 
-    - ##Random-game
+    - ## Random-game
 
         Petit jeu de hasard qui consiste à choisir parmi 3 niveaux:
 
@@ -23,7 +23,7 @@ Développement de petits trucs:
 
         Le programme va choisir un chiffre au hasard dans la range de nombres possible et à vous de deviner ! Le nombre d'essais est comptabilisé et à chaque essai, une indication est donnée afin de rectifier la proposition.   
 
-    - ##Triangle
+    - ## Triangle
 
         Programme qui indique en fonction de la longueur des trois côtés, de quel type est notre triangle.    
 
